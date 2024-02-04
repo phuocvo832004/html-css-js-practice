@@ -1,2 +1,2 @@
-# Fullstack-project
-1 số dự án cá nhân
+# Cắt html/css và chưa có hiệu ứng js
+
