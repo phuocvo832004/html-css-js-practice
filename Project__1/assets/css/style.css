@@ -810,7 +810,7 @@
 .fui-footer-3 .footer-link-list {
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 4px;
 }
 
 .fui-footer-3 .footer-link {
