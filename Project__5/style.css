@@ -1,0 +1,36 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  max-width: 100vw;
+  max-height: 100vh;
+  width: 100%;
+  height: 100%;
+  font-size: 100px; }
+
+canvas {
+  display: block;
+  background-color: #ebebeb; }
+
+#erase {
+  position: fixed;
+  bottom: 10vh;
+  left: 50vw;
+  display: flex;
+  gap: 5px;
+  padding: 20px;
+  background: lightgray;
+  color: black;
+  border: transparent;
+  border-radius: 80px;
+  font-size: 20px;
+  transition: transform 0.2s ease; }
+
+.erase-cursor {
+  cursor: url("eraser-solid.svg"), pointer; }
+
+#erase:hover {
+  transform: scale(0.9); }
+
+/*# sourceMappingURL=style.css.map */
